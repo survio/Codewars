@@ -14,7 +14,7 @@ namespace codewars_console
 
             Decode(".... . -.--   .--- ..- -.. .");
 
-
+            float aloalo;
 
         }
         public static string Decode(string morseCode)
